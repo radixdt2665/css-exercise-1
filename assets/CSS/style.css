@@ -104,11 +104,13 @@ hr{border: 1px dashed #D1D1D1;margin: 50px 0}
 
 .html-tags .content{max-width: 1000px;flex-wrap: wrap;gap: 40px;}
 .html-tags .content .text{padding:16px 62px;display: inline-block;width: 48%;border-radius: 25px;display: flex;justify-content: center;align-items: center;}
+.html-tags .inline-span{display: inline-block;margin-left: 5px;padding-left: 3px;}
 
 .inline-div-content .border-inline{border: 1px solid #130085;display: inline-block;padding: 5px 0;}
 
 .order-unorder-list .box-main{flex-wrap: wrap;max-width: 996px;gap: 20px;justify-content: center;}
 .order-unorder-list .p-44-64{padding: 44px 77px;}
+
 
 .dl-dd-list .dl dt,dd{line-height: 23px;}
 
